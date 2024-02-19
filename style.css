@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+}
+
+body {
+    background-color: slateblue;
+}
+.main-container h1 {
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+.first-box {
+    background-color: whitesmoke;
+    height: 30vh;
+    width: 42%;
+    position: relative;
+    left: 6.7%;
+    top: 79px;
+    border-radius: 10px;
+}
+
+h2 {
+    position: absolute;
+    top: 20px;
+    left: 160px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#one {
+    line-height: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 65px;
+    left: 50px;
+    
+}
+
+.btn1 {
+    background-color: crimson;
+    padding: 13px 20px;
+    position: absolute;
+    top: 63%;
+    left: 15%;
+    width: 30%;
+    color: #fff;
+    font-size: 17px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-one {
+    width: 30%;
+    color: #fff;
+    font-size: 17px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: crimson;
+    padding: 13px 20px; 
+    position: absolute;
+    top: 63%;
+    left: 53%;
+    width: 30%;  
+}
+
+.first {
+    position: relative;
+    top: 200px;
+    left: 250px;
+    color: #fff;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.second-box {
+    background-color: whitesmoke;
+    height: 30vh;
+    width: 42%;
+    border-radius: 10px;
+    position: relative;
+    top: -100px;
+    left: 55%;
+}
+
+h3 {
+    position: absolute;
+    top: 20px;
+    left: 160px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#one {
+    line-height: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 65px;
+    left: 50px;
+    
+}
+
+.btn2 {
+    background: transparent;
+    padding: 13px 20px;
+    position: absolute;
+    top: 63%;
+    left: 15%;
+    width: 30%;
+    color: crimson;
+    border: 1px solid crimson;
+    font-size: 17px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-two {
+    width: 30%;
+    color: #fff;
+    font-size: 17px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: crimson;
+    padding: 13px 20px; 
+    position: absolute;
+    top: 63%;
+    left: 53%;
+    width: 30%;  
+}
+
+.second {
+    position: relative;
+    top: 200px;
+    left: 255px;
+    color: #fff;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
